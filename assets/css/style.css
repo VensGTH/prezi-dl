@@ -1,0 +1,36 @@
+.dl-button {
+    font-size: 18px;
+    margin: 0px 6px 0px 0px;
+    display: inline-flex;
+    -webkit-box-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    justify-content: center;
+    height: 42px;
+    text-decoration: none;
+    cursor: pointer;
+    user-select: none;
+    border-radius: 42px;
+    border: 1px solid rgb(72 205 37);
+    transition: border 200ms ease 0s;
+    color: rgb(71, 82, 98);
+    width: 42px;
+    padding: 0px;
+    /*background-color: #74e156;*/
+}
+
+a.dl-button img#di-icon{
+    width: 24px;
+	height: 24px;
+}
+
+
+.bar-wrapper {
+    overflow: hidden;
+    padding: 6px 15px;
+}
+
+.bar-wrapper {
+    padding: 24px 24px 30px;
+    height: auto;
+}
